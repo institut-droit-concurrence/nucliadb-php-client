@@ -15,7 +15,7 @@ class ApiClient
 {
     public const API_URI_TEMPLATE = '%protocol://%zone.%domain/%basepath/%kbid/%name';
     public const API_PROTOCOL = 'https';
-    public const API_DOMAIN = 'nuclia.cloud';
+    public const API_DOMAIN = 'rag.progress.cloud';
     public const API_BASEPATH = 'api/v1/kb';
 
     protected string $zone;
