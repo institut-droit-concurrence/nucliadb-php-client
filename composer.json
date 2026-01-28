@@ -1,8 +1,19 @@
 {
-    "name": "makina-corpus/nucliadb-php-client",
+    "name": "concurrences/nucliadb-php-client",
     "description": "PHP client for NucliaDB API",
     "type": "library",
     "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "makina-corpus",
+            "homepage": "https://makina-corpus.com/",
+            "role": "Original developers of the nucliadb-php-client"
+        },
+        {
+            "name": "concurrences",
+            "homepage": "https://www.concurrences.com"
+        }
+    ],
     "autoload": {
         "psr-4": { "Nuclia\\": "" },
         "exclude-from-classmap": [
