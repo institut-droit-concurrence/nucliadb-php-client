@@ -1,5 +1,5 @@
 {
-    "name": "concurrences/nucliadb-php-client",
+    "name": "institut-droit-concurrence/nucliadb-php-client",
     "description": "PHP client for NucliaDB API",
     "type": "library",
     "minimum-stability": "stable",
